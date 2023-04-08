@@ -50,9 +50,13 @@ num2 = temp
 
 print("Swapped values are:",num1,num2)
 ```
+##OUTPUT:
+
+![1a python prem](https://user-images.githubusercontent.com/119476243/230727637-70f85e30-8225-434e-82d4-9de0004112c3.png)
 
 
 ## RESULT:
+
 Thus the swapping of two values are successfully executed
 
 
